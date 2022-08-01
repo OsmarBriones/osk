@@ -1,16 +1,14 @@
-# untitled
+Aplicación libre y gratuita que permita el uso de smartphones Android como llave de seguridad inalámbrica
 
-A new Flutter project.
+Presenta: Osmar Alberto Saguilan Briones
 
-## Getting Started
+Protocolo de investigación
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tipo 2. Desarrollo de software.
+Líneas de investigación:
+Gestión de la seguridad
+Seguridad en redes
+Seguridad en sistemas operativos
+Criptografía y mecanismos de seguridad
+Seguridad en aplicaciones online y base de datos Seguridad en el software
+Seguridad en el software
